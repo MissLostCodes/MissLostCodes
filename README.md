@@ -5,9 +5,9 @@
 
 - 😄 Pronouns: ...She , who is underestimated. 
 - ⚡ Fun fact: ...my leetcode is better looking than my github
-- 
+- <3 My fast learning skills  will make up for what i might lack !
 
 <!---
 MissLostCodes/MissLostCodes is a ✨ special ✨ repository because its `README.md`
 
---->My urge to learn will make up for what i lack
+--- >
