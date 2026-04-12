@@ -4,8 +4,7 @@
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=7F5AF0&center=true&vCenter=true&width=600&lines=AI+Engineer;Designing+and+Building+AI+Systems;Open+Source+Contributor;AI+Researcher" />
 </p>
-
-![rr3](https://github.com/user-attachments/assets/37791e07-1757-421b-ae43-9347edb5de7a)
+![_](https://github.com/user-attachments/assets/88042b8d-df31-4d06-a7a2-a27ae5679e85)
 
 ## About Me
 - 🚀 I build **AI Agents, Backend Systems, AI Chatbots, Finetuned LLMs**  
