@@ -4,7 +4,9 @@
 <p align="center">
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=7F5AF0&center=true&vCenter=true&width=600&lines=AI+Engineer;Designing+and+Building+AI+Systems;Open+Source+Contributor;AI+Researcher" />
 </p>
-![_](https://github.com/user-attachments/assets/88042b8d-df31-4d06-a7a2-a27ae5679e85)
+
+![anime wallpapers for pc](https://github.com/user-attachments/assets/f11e92a6-33fa-46e9-8181-926a64e90a98)
+
 
 ## About Me
 - 🚀 I build **AI Agents, Backend Systems, AI Chatbots, Finetuned LLMs**  
