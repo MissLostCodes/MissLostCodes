@@ -8,7 +8,7 @@
 
 
 ## About Me
-- 🚀 I build **AI Agents, Backend Systems, AI Chatbots, Finetuned LLMs**  
+- 🚀 I build **AI Agents, Scalable Backend Systems, AI Chatbots, Full Stack Applications**  
 - 💡 Currently deep diving into **LLMOps and Langgraph**  
 - 🤝 Contributing to **large-scale open source projects (Langchain, Optimum-intel, etc.)**  
 
@@ -17,8 +17,7 @@
 
 ## 🛠️ Things to know about me 
 - 🤖 I code in Python, JavaScript, Java 
-- 🤖 I build backends using FastAPI 
-- 🤖 CrewAI, AGNO, Langgraph, Langchain, n8n, MCP servers 
+- 🤖 FastAPI, Next.js, CrewAI, AGNO, Langgraph, Langchain, n8n, MCP servers 
 - 🤖 Machine Learning, Deep Learning , Natural Language Processing
 - 🤖 I research on Agentic Long Form Context RAG systems and LLM Quantizations 
 
