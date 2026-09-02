@@ -17,7 +17,7 @@
 
 ## 🛠️ Things to know about me 
 - 🤖 I code in Python, JavaScript, Java 
-- 🤖 FastAPI, Next.js, CrewAI, AGNO, Langgraph, Langchain, n8n, MCP servers 
+- 🤖 FastAPI, Next.js, CrewAI, AGNO, Langgraph, Langchain, MCP servers 
 - 🤖 Machine Learning, Deep Learning , Natural Language Processing
 - 🤖 I research on Agentic Long Form Context RAG systems and LLM Quantizations 
 
